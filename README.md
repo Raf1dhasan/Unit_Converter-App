@@ -48,10 +48,14 @@ Designed the app's layout using XML to create a clean and intuitive user interfa
 Wrote the conversion logic for various unit categories using Java.
 -Real-Time Calculations:
 Enabled dynamic conversions as users input values.
-##  What I Did
--UI Design:
-Designed the app's layout using XML to create a clean and intuitive user interface.
--Logic Implementation:
-Wrote the conversion logic for various unit categories using Java.
--Real-Time Calculations:
-Enabled dynamic conversions as users input values.
+## What I Learned
+-Improved skills in:
+-Android app development using Java.
+-Designing responsive layouts using XML.
+-Implementing efficient algorithms for unit conversions.
+-Gained experience with the Android lifecycle and event handling.
+## Future Improvements
+-Add more unit categories (e.g., speed, data, energy).
+-Implement a history feature to save previous conversions.
+-Add dark mode for better usability in low-light conditions.
+-Localize the app for multiple languages.
