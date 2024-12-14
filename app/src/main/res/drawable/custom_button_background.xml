@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#FF5733" /> <!-- Change the color to your desired color -->
+        <corners android:radius="8dp" /> <!-- Adjust the radius for the desired shape -->
+    </shape>
+</selector>

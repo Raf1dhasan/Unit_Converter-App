@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">unitConverter</string>
+    <string-array name="spinnerItems">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
